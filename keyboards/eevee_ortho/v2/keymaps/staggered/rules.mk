@@ -1,0 +1,10 @@
+MCU = atmega32u4
+SPLIT_KEYBOARD = yes
+LEADER_ENABLE = yes
+KEY_OVERRIDE_ENABLE = yes
+
+CONSOLE_ENABLE = yes
+
+DEBOUNCE_TYPE = asym_eager_defer_pk
+
+CAPS_WORD_ENABLE = yes
